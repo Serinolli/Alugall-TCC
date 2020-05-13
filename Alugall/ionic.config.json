@@ -1,0 +1,7 @@
+{
+  "name": "Alugall",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
